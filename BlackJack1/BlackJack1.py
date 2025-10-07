@@ -1,6 +1,7 @@
 ﻿import random
 import os
 # yorum satırı eklendi
+#yorum2
 class BlackjackGame:
     def __init__(self):
         self.deck = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] * 4
